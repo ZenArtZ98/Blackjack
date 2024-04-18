@@ -24,6 +24,7 @@
 
 
 Прецедент «Сделать ставку»
+
 ![](https://github.com/ZenArtZ98/Blackjack/blob/main/images/ставка.drawio.png)
 
 Основной сценарий
