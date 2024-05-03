@@ -1,4 +1,4 @@
-![]([Aspose.Words.833e41a7-6433-49e6-9c1f-e262d3c1d9f5.001.png](https://github.com/ZenArtZ98/Blackjack/blob/main/images/class.png))
+![](https://github.com/ZenArtZ98/Blackjack/blob/main/images/class.png)
 
 Классы
 
