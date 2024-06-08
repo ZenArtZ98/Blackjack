@@ -5,7 +5,7 @@ using BlackJack.Class;
 
 namespace BlackJack
 {
-    public partial class Form1 : Form
+    public partial class BlackJack : Form
     {
         private Game game;
         private Label lblPlayerScore;
@@ -28,7 +28,7 @@ namespace BlackJack
         private TextBox txtAddBalance;
         private Button btnAddDeck; 
 
-        public Form1()
+        public BlackJack()
         {
             InitializeComponent();
             game = new Game();
