@@ -1,4 +1,4 @@
-![](https://github.com/ZenArtZ98/Blackjack/blob/main/images/ClassDiagram.png)
+![](https://github.com/ZenArtZ98/Blackjack/blob/main/images/ClassDiagram.drawio.png)
 
 Классы
 
